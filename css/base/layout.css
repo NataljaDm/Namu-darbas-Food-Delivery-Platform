@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    flex-direction: row;
+    width: 1400px;
+    background-color: aqua;
+}
+.nav-bar {
+    width: 200px;
+    background-color: blueviolet;
+}
+nav {
+    float: left;
+    background-color: var(--main-color);
+    height: 100vh;
+}
