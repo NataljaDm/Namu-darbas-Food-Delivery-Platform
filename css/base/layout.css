@@ -134,8 +134,29 @@ main {
     margin-left: 10px;
     font-weight: bold;
 }
-.food-container 2 {
-    background-color: var(--product2)
+.columm .meal2 {
+    background-color: var(--product2);
+}
+.columm .meal3 {
+    background-color: var(--product3);
+}
+.columm .meal4 {
+    background-color: var(--product4);
+}
+.columm .meal5 {
+    background-color: var(--product5);
+}
+.columm .meal6 {
+    background-color: var(--product6);
+}
+.columm .meal7 {
+    background-color: var(--product7);
+}
+.columm .meal8 {
+    background-color: var(--product8);
+}
+.columm .meal9 {
+    background-color: var(--product9);
 }
 .order {
     display: inline-block;
