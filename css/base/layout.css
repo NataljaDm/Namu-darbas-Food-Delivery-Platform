@@ -8,8 +8,8 @@ body {
 
 .left-meniu {
     background-color: var(--main-color);
-  }
-  .left-meniu a {
+}
+.left-meniu a {
     display: flex;
     align-items: flex-start;
     font-size: 16px;
@@ -19,28 +19,26 @@ body {
     color: var(--secondary-color);
     margin-left: 40px;
     transition: all 0.4s;
-  }
+}
   
-  .left-meniu a:hover {
+.left-meniu a:hover {
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px;
     background-color: rgba(250, 250, 250, 0.6);
     color: var(--main-color);
-  }
-  .left-meniu .option {
+}
+.left-meniu .option {
     margin-top: 15vh;
-  }
-  .left-meniu a i {
+}
+.left-meniu a i {
     margin-right: 10px;
-  }
-  
-  .left-meniu .selected {
+ }
+.left-meniu .selected {
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px;
     background-color: var(--secondary-color);
     color: var(--main-color);
-  }
-
+}
 .head {
     display: flex;
     flex-direction: row;
@@ -49,8 +47,6 @@ main {
     margin: 0;
     
 }
-
-
 .text {
     display: flex;
     justify-content: space-between;
@@ -59,17 +55,13 @@ main {
     width: 50%;
 
 }
-
-
 .columm {
     width: 60%;
     float: left;
-
 }
 .second-columm {
     width: 30%;
    float: right;
-
 }
 .columm .food-list {
   display: flex;
@@ -104,7 +96,7 @@ main {
 }
   .columm .grade-info {
     color: white;
-  }
+}
 
 .columm .heart {
     width: 1.5em;
@@ -129,20 +121,22 @@ main {
     margin-top: 30px;
     line-height: 2em;
     margin-left: 10px;
-  }
+}
   .columm .food-name span {
     background-color: var(--secondary-color);
     padding: 0.3em 0.3em;
     border-radius: 10px;
     margin-left: 10px;
     color: #e5bde5;
-  }
+}
   
   .columm .food-price {
     margin-left: 10px;
     font-weight: bold;
-  }
-
+}
+.food-container 2 {
+    background-color: var(--product2)
+}
 .order {
     display: inline-block;
 }
