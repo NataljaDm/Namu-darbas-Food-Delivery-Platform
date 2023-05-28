@@ -1,19 +1,52 @@
 body {
-    display: flex;
     flex-direction: row;
     width: 1400px;
-    background-color: aqua;
 }
 .nav-bar {
     width: 200px;
-    background-color: blueviolet;
+    margin: 0;
 }
 nav {
+    display: flex;
+    flex-direction: column;
     float: left;
     background-color: var(--main-color);
     height: 100vh;
 }
+
 .head {
     display: flex;
     flex-direction: row;
+}
+main {
+    margin: 0;
+    
+}
+
+
+.text {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 50%;
+
+}
+
+.container{    
+
+}
+.columm {
+    width: 60%;
+    float: left;
+
+}
+.second-columm {
+    width: 30%;
+   float: right;
+
+}
+.order {
+    display: inline-block;
+    float: right;
 }
