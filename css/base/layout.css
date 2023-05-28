@@ -33,9 +33,7 @@ main {
 
 }
 
-.container{    
 
-}
 .columm {
     width: 60%;
     float: left;
@@ -120,5 +118,4 @@ main {
 
 .order {
     display: inline-block;
-    float: right;
 }
