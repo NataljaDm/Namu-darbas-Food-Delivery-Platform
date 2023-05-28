@@ -13,3 +13,7 @@ nav {
     background-color: var(--main-color);
     height: 100vh;
 }
+.head {
+    display: flex;
+    flex-direction: row;
+}
