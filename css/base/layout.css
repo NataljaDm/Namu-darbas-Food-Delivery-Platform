@@ -3,12 +3,19 @@ body {
     flex-direction: row;
     width: 1400px;
     background-color: aqua;
+    margin: none;
+}
+.container {
+    padding: 10px;
+
 }
 .nav-bar {
     width: 200px;
     background-color: blueviolet;
 }
 nav {
+    display: flex;
+    flex-direction: column;
     float: left;
     background-color: var(--main-color);
     height: 100vh;
