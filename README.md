@@ -15,7 +15,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://github.com/NataljaDm/Namu-darbas-Food-Delivery-Platform
 
-Design: [Food delivery platform]
+Design: [Food delivery platform] https://www.youtube.com/watch?v=GY6F7FI5VPM
 
 ## 🎯 Project features/goals
 

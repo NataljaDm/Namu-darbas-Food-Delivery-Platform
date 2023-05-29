@@ -1,6 +1,6 @@
 body {
     flex-direction: row;
-    width: 1400px;
+    width: 2000px;
 }
 .main {
     display: flex;
